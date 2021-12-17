@@ -1821,6 +1821,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Polycom | RealAccess  | | Workaround | | [source](https://support.polycom.com/content/dam/polycom-support/global/documentation/plygn-21-08-poly-systems-apache.pdf)|
 | Portex | Portex | <3.0.2 | Fix | | [source](https://github.com/katjahahn/PortEx/releases)|
 | Postgres | PostgreSQL JDBC | | Not vuln | | [source](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/) |
+| Power Admin | PA Server Monitor | | Not vuln | | [source](https://www.poweradmin.com/blog/solarwinds-hack-our-safety-measures/) |
+| Power Admin | PA Storage Monitor | | Not vuln | | [source](https://www.poweradmin.com/blog/solarwinds-hack-our-safety-measures/) |
+| Power Admin | PA File Sight | | Not vuln | | [source](https://www.poweradmin.com/blog/solarwinds-hack-our-safety-measures/) |
 | PowerDNS | dnsdist | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
 | PowerDNS | PowerDNS Authoritative | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
 | PowerDNS | PowerDNS Recursor | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
